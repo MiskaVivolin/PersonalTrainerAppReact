@@ -10,6 +10,10 @@ Customers can be added from the customer page on the top right hand corner by cl
 
 Customers and training sessions can be deleted by clicking on the trash icon on the left side of the row which is to be removed. Customers can be edited by clicking on the pen icon.
 
+From the bottom right hand corner, users can navigate back and forth between pages. the amount of rows visible can also be set to 5, 10 or 20.
+
+The calendar can be set to show training sessions in days, weeks or months. The agenda view shows all training sessions in a list.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
