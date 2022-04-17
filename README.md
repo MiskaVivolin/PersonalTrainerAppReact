@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Personal trainer app
+
+A react app that displays a list of customers and their training activities in a table as well as a calendar from which to view aforesaid data. 
+
+![image](https://user-images.githubusercontent.com/78149945/163716226-40e4e6e8-bf4f-48d0-9288-b72474254cfa.png)
+
+With the appbar, the view can be changed between customers, their training sessions and the calendar by clicking on the desired destination.
+
+Customers can be added from the customer page on the top right hand corner by clicking on the plus icon which opens up fillable fields. Customers and training sessions can be deleted by clicking on the correct icons on the left side of the row which is to be removed.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
