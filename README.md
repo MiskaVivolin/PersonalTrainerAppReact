@@ -14,9 +14,6 @@ From the bottom right hand corner, users can navigate back and forth between pag
 
 The calendar can be set to show training sessions in days, weeks or months. The agenda view shows all training sessions in a list.
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
