@@ -2,7 +2,8 @@
 
 A react app that displays a list of customers and their training activities in a table as well as a calendar from which to view aforesaid data. 
 
-![image](https://user-images.githubusercontent.com/78149945/163716226-40e4e6e8-bf4f-48d0-9288-b72474254cfa.png)
+![image](https://user-images.githubusercontent.com/78149945/163807112-3cc05a62-717a-4c7f-b8b8-a33bd8eebfb5.png)
+
 
 With the appbar, the view can be changed between customers, their training sessions and the calendar by clicking on the desired destination.
 
