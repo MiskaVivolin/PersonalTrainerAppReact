@@ -19,4 +19,4 @@ The calendar can be set to show training sessions in days, weeks or months. The 
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.
